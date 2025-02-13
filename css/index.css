@@ -1,0 +1,25 @@
+body{
+    background-color:darkgreen;
+    color:white;
+}
+.flex-container{
+    position:absolute;
+    width:100%;
+    height:100%;
+    align-items:center;
+}
+.flex-container > .top-page{
+    height:20%;
+    text-align:center;
+}
+.flex-container > .mid-content{
+    height:50%;
+    text-align:left;
+    background-color: lightblue;
+    color:brown;
+}
+.flex-container > .bottom-nav{
+    height:30%;
+    width:100%;
+}
+

@@ -1,0 +1,8 @@
+body{
+    background-color: darkgreen;
+}
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    background-color:lightblue;
+}
