@@ -1,7 +1,11 @@
+/*Code Starts*/
 body{
     background-color: darkgreen;
     color:white;
+    /*sets colours*/
 }
 #about-us{
     width:25%;
+    /*sets text to 25% of screen*/
 }
+/*Code Ends*/

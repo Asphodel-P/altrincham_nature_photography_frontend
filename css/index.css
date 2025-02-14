@@ -1,25 +1,31 @@
+/*Code Starts*/
 body{
     background-color:darkgreen;
     color:white;
+    /*sets colours*/
 }
 .flex-container{
     position:absolute;
     width:100%;
     height:100%;
     align-items:center;
+    /*sets total size of page*/
 }
 .flex-container > .top-page{
     height:20%;
     text-align:center;
+    /*sets header segment to 20% of page total and puts content in center*/
 }
 .flex-container > .mid-content{
     height:50%;
     text-align:left;
     background-color: lightblue;
     color:brown;
+    /*sets body to 50% of page total, places texts to left, changes colour*/
 }
 .flex-container > .bottom-nav{
     height:30%;
     width:100%;
+    /*sets navigation to 30% of page height and full page width*/
 }
-
+/*Code Ends*/

@@ -1,8 +1,12 @@
+/*Code Starts*/
 body{
     background-color: darkgreen;
+    /*sets colours*/
 }
 .flex-container{
     display: flex;
     flex-direction: column;
     background-color:lightblue;
+    /*sets colours and makes form fields flow in a column*/
 }
+/*Code Ends*/
